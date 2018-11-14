@@ -25,6 +25,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', '~> 4.5'
 gem 'paperclip', '~> 6.1'
 gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-turbolinks', '~> 2.1'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
